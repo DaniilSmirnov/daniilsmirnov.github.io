@@ -1,0 +1,29 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daniilsmirnov.github.io" resolutions="1x" timestamp="1527274437224">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3769188660" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u102-4.png" crc="308487037" ref="index"/>
+    <file name="vk.svg" crc="139363363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk_poster_.png" crc="3840500016" ref="index"/>
+    <file name="git.svg" crc="4173392047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="git_poster_.png" crc="4094825210" ref="index"/>
+    <file name="tel.png" crc="73877547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4087500299" seo="true" mt="1527274397885" redirect="true"/>
+</manifest>

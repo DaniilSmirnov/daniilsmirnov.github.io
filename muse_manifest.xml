@@ -1,18 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daniilsmirnov.github.io" resolutions="1x" timestamp="1527275585014">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daniilsmirnov.github.io" resolutions="1x" timestamp="1527440437009">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4172949677" ref="index"/>
+    <file name="projects.css" crc="3813201840" ref="projects"/>
+    <file name="index.css" crc="3923068859" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects"/>
+    <file name="museutils.js" crc="3803043152" ref="index:projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects"/>
+    <file name="museconfig.js" crc="380897831" ref="index:projects"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:projects"/>
+    <file name="require.js" crc="4157109226" ref="index:projects"/>
   </folder>
   <folder name="images">
-    <file name="u102-4.png" crc="308487037" ref="index"/>
+    <file name="u102-4.png" crc="351890816" ref="index"/>
     <file name="vk.svg" crc="139363363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -24,6 +25,13 @@
     <file name="tel.png" crc="73877547" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u247-4.png" crc="379357281" ref="index"/>
+    <file name="u232-4.png" crc="4099113897" ref="projects"/>
+    <file name="u235-4.png" crc="4249120910" ref="projects"/>
+    <file name="u238-4.png" crc="3868280860" ref="projects"/>
+    <file name="u241-4.png" crc="256859947" ref="projects"/>
+    <file name="u244-4.png" crc="91890967" ref="projects"/>
   </folder>
-  <file name="index.html" crc="3942423163" seo="true" mt="1527275576463" redirect="true"/>
+  <file name="index.html" crc="3819082485" seo="true" mt="1527440429083" redirect="true"/>
+  <file name="projects.html" crc="115425483" seo="true" mt="1527440323201" redirect="true"/>
 </manifest>
